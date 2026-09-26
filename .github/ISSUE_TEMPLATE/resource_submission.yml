@@ -1,0 +1,104 @@
+name: 🔗 Resource Submission
+description: Suggest a new tool, paper, framework, or resource for Awesome LLMSecOps
+title: "Add [Resource Name] to [Category]"
+labels: ["resource-submission", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a resource to Awesome LLMSecOps! Please fill out the details below.
+
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: The name of the tool, paper, framework, or resource
+      placeholder: e.g., PyRIT
+    validations:
+      required: true
+
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      description: The primary link (GitHub repo, paper URL, website)
+      placeholder: e.g., https://github.com/Azure/PyRIT
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this resource belong in?
+      options:
+        - Prompt Security
+        - Model Security
+        - Agentic AI Security
+        - RAG Security
+        - AI Gateways & Runtime Guardrails
+        - Data Privacy & PII Protection
+        - Supply Chain Security
+        - Deployment Security
+        - Monitoring & Observability
+        - Incident Response for AI Systems
+        - Compliance & Governance
+        - Red Teaming & Adversarial Testing
+        - Evaluation & Benchmarking
+        - Learning Resources
+        - New Category (describe below)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: resource-type
+    attributes:
+      label: Resource Type
+      description: What type of resource is this?
+      options:
+        - Open-source tool / library
+        - Research paper
+        - Standard / framework
+        - Commercial tool (with free tier)
+        - Course / tutorial
+        - Blog post / article
+        - Book
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief 1-2 sentence description of the resource and why it's relevant to LLMSecOps
+      placeholder: e.g., Microsoft's red teaming framework for generative AI with automated multi-turn attack strategies
+    validations:
+      required: true
+
+  - type: textarea
+    id: justification
+    attributes:
+      label: Why should this be added?
+      description: Explain why this resource is valuable to the LLMSecOps community
+      placeholder: Explain the unique value this resource provides
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: This resource is not already listed in the repository
+          required: true
+        - label: The link is accessible and not broken
+          required: true
+        - label: The resource is relevant to LLM/GenAI security
+          required: true
+        - label: The resource is actively maintained or is a foundational/seminal work
+          required: true
+        - label: I have read the [Contributing Guidelines](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/blob/main/CONTRIBUTING.md)
+          required: true

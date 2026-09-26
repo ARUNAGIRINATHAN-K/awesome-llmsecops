@@ -1,0 +1,48 @@
+name: 💡 Category Request
+description: Suggest a new category or restructuring of existing categories
+title: "Category Request: [Category Name]"
+labels: ["category-request", "enhancement"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new category! The LLMSecOps landscape evolves rapidly, and new categories help us stay organized.
+
+  - type: input
+    id: category-name
+    attributes:
+      label: Proposed Category Name
+      description: What should the new category be called?
+      placeholder: e.g., Multimodal AI Security
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe what this category would cover and why it's distinct from existing categories
+      placeholder: Explain the scope and boundaries of this category
+    validations:
+      required: true
+
+  - type: textarea
+    id: initial-resources
+    attributes:
+      label: Initial Resources
+      description: List at least 3 resources that would belong in this category
+      placeholder: |
+        - [Resource 1](https://link) - Description
+        - [Resource 2](https://link) - Description
+        - [Resource 3](https://link) - Description
+    validations:
+      required: true
+
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Why should this be a separate category rather than part of an existing one?
+    validations:
+      required: true

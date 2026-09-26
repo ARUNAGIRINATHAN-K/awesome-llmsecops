@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" viewBox="0 0 800 360">
+  <desc>A monochrome circuit-chip logo containing the text LLM and the subtitle large language model.</desc>
+  <g fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+    <rect width="460" height="150" x="170" y="105" rx="38"/>
+    <path d="M270 105V55"/>
+    <circle cx="270" cy="38" r="12"/>
+    <path d="M400 105V55"/>
+    <circle cx="400" cy="38" r="12"/>
+    <path d="M530 105V55"/>
+    <circle cx="530" cy="38" r="12"/>
+    <path d="M270 255v50"/>
+    <circle cx="270" cy="322" r="12"/>
+    <path d="M400 255v50"/>
+    <circle cx="400" cy="322" r="12"/>
+    <path d="M530 255v50"/>
+    <circle cx="530" cy="322" r="12"/>
+    <path d="M170 140h-55"/>
+    <circle cx="95" cy="140" r="12"/>
+    <path d="M170 180h-55"/>
+    <circle cx="95" cy="180" r="12"/>
+    <path d="M170 220h-55"/>
+    <circle cx="95" cy="220" r="12"/>
+    <path d="M630 140h55"/>
+    <circle cx="705" cy="140" r="12"/>
+    <path d="M630 180h55"/>
+    <circle cx="705" cy="180" r="12"/>
+    <path d="M630 220h55"/>
+    <circle cx="705" cy="220" r="12"/>
+  </g>
+  <g fill="white" font-family="Inter, Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="400" y="175" font-size="54" font-weight="800" letter-spacing="5">
+      LLM-Sec-Ops
+    </text>
+    <text x="400" y="218" font-size="17" font-weight="600" letter-spacing="1.2">
+      Large Language Model Security Operations
+    </text>
+  </g>
+</svg>
