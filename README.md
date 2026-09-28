@@ -24,9 +24,9 @@
 
 <br>
 
-<svg width="742" height="29" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#080boe"/>
-  <text x="371" y="19.75" font-family="'Comic Sans MS', cursive" font-size="21" font-weight="normal" fill="#FFFFFF" text-anchor="middle">Prompt → Model → Tools → Data → Deployment → Monitoring → Security</text>
+<svg width="916" height="34" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+  <text x="458" y="23.5" font-family="'Comic Sans MS', cursive" font-size="26" font-weight="normal" fill="#6366f1" text-anchor="middle">Prompt → Model → Tools → Data → Deployment → Monitoring → Security</text>
 </svg>
 
 <br>
@@ -41,6 +41,8 @@
 
 [Submit a Resource](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=resource_submission.yml) · [Report Broken Link](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=broken_link.yml) · [Request Category](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=category_request.yml) · [Join Community](#-community)
 
+ <img src="assets/img/mindmap.svg" alt="mindmap" width="800">
+
 </div>
 
 ---
@@ -48,6 +50,14 @@
 ## What is LLMSecOps?
 
 LLMSecOps is a new discipline integrating cybersecurity throughout the entire lifecycle of Large Language Model (LLM) and Generative AI applications, from design to incident response. As LLMs become fundamental to enterprise and critical infrastructure, the attack surface expands. LLMSecOps addresses this through:
+
+<br>
+
+<div align="center">
+  <img src="assets/img/attack-surface.svg" alt="LLM Application Attack Surface & Layered Vulnerabilities" width="850">
+</div>
+
+<br>
 
 ## LLMSecOps Lifecycle
 
@@ -102,7 +112,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 <img
     src="assets/img/LLMSECOPS.svg"
     alt="Awesome LLMSecOps - Curated list of tools, frameworks, and research for securing Large Language Model and Generative AI applications"
-    width="800">
+    width="1200">
 
 ---
 
@@ -142,7 +152,18 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 
 ## Categories
 
+<br>
+
+<div align="center">
+  <img src="assets/img/tool-landscape.svg" alt="LLMSecOps Open Source Tooling & Frameworks Landscape" width="850">
+</div>
+
+<br>
+
 ### Prompt Security
+
+<img src="assets/img/prompt.svg" alt="Awesome LLMSecOps - Curated list of tools, frameworks, and research for securing Large Language Model and Generative AI applications"
+width="800">
 
 *Tools, frameworks, and research for defending against prompt injection, prompt leaking, jailbreak attacks, and prompt-based exfiltration.*
 
@@ -170,6 +191,8 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 ---
 
 ### Model Security
+
+![nodel](assets/img/model.svg)
 
 *Tools and research for adversarial robustness, model hardening, weight protection, output validation, and defending against attacks on model integrity.*
 
@@ -262,6 +285,14 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 ---
 
 ### AI Gateways & Runtime Guardrails
+
+<br>
+
+<div align="center">
+  <img src="assets/img/defense-in-depth.svg" alt="LLMSecOps Defense-in-Depth Layered Architecture" width="850">
+</div>
+
+<br>
 
 *Tools and frameworks for intercepting, validating, and governing LLM inputs and outputs in real-time at the application layer.* `NEW`
 

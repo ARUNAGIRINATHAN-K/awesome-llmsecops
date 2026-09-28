@@ -1,0 +1,348 @@
+<svg viewBox="0 0 1400 1000" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNjlmMjNiNy1lNjdmLTQ0MzMtYTc3My05NTE5YzgyYzRkNmIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDJFOh/W+EyNKU/PQ9dQzioAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmZDBhMmVhZC00YWI5LTRjNTMtODZlNC01YjhkNGU1YTNiZThscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNor9uaamH8gEFLmKp2dIcqFgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg925SQkqvu7emx75XQGjOkZ9GjCAt0N6q8rqAebVpee6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGhxYTG/13I94nd5Z7Hey0kAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCcTcxDqxlnISaizik6jmq014ZFxx0F/9o9AfXHNB9wyWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBh/Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ2OWYyM2I3LWU2N2YtNDQzMy1hNzczLTk1MTljODJjNGQ2Yi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmFjMjc3ZWM0LTMxYzktNDM3My04MjI2LTU2NDU2ZGZlNzJiMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD3blJCSq+7t6bHvldAaM6Rn0aMIC3Q3qryuoB5tWl57qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg67BECY+2VBUA+NcJwHqJVqxIGCrX/fyBpnmaas/fM02iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggRNVhuzA2zpCL/TgSqlO5cxiv00QII3zl/tcjC4ZoMEV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMmCTZETla6g94jzLWrV91tRrsjJr3skt8+mdthOh/M49a+dYo1z4Wd3kJ+Xeca3hQc1CCXlzgSxfXPiCaWA5Xg=</c2pa:manifest></metadata>
+  <!-- Background -->
+  <rect width="1400" height="1000" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="700" y="40" font-size="36" font-weight="bold" text-anchor="middle" fill="#1a5490">
+    AI Gateways & Runtime Guardrails Architecture
+  </text>
+  <text x="700" y="65" font-size="14" text-anchor="middle" fill="#666">
+    Multi-Layer Security for LLM Applications
+  </text>
+  
+  <!-- Main flow direction arrow -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#ff8c42"/>
+    </marker>
+    <marker id="arrowhead-green" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#00a86b"/>
+    </marker>
+    <marker id="arrowhead-red" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#d32f2f"/>
+    </marker>
+  </defs>
+
+  <!-- ===== USER INPUT LAYER ===== -->
+  <g id="user-layer">
+    <!-- User icon -->
+    <circle cx="100" cy="150" r="25" fill="#1a5490"/>
+    <text x="100" y="155" font-size="12" text-anchor="middle" fill="white" font-weight="bold">👤</text>
+    <text x="100" y="190" font-size="12" text-anchor="middle" fill="#333">User Input</text>
+    
+    <!-- Arrow to gateway -->
+    <path d="M 140 150 L 200 150" stroke="#ff8c42" stroke-width="3" marker-end="url(#arrowhead)"/>
+  </g>
+
+  <!-- ===== AI GATEWAY LAYER ===== -->
+  <g id="gateway-layer">
+    <!-- Main gateway box -->
+    <rect x="200" y="80" width="280" height="140" fill="#e3f2fd" stroke="#1a5490" stroke-width="2" rx="8"/>
+    <text x="340" y="105" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a5490">🚪 AI GATEWAY</text>
+    
+    <!-- Gateway components -->
+    <rect x="215" y="120" width="80" height="50" fill="#fff" stroke="#1a5490" stroke-width="1.5" rx="4"/>
+    <text x="255" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#1a5490">Auth</text>
+    <text x="255" y="152" font-size="9" text-anchor="middle" fill="#666">OAuth 2.0</text>
+    <text x="255" y="162" font-size="9" text-anchor="middle" fill="#666">API Keys</text>
+    
+    <rect x="305" y="120" width="80" height="50" fill="#fff" stroke="#1a5490" stroke-width="1.5" rx="4"/>
+    <text x="345" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#1a5490">Rate Limit</text>
+    <text x="345" y="152" font-size="9" text-anchor="middle" fill="#666">Per-user</text>
+    <text x="345" y="162" font-size="9" text-anchor="middle" fill="#666">Per-model</text>
+    
+    <rect x="395" y="120" width="80" height="50" fill="#fff" stroke="#1a5490" stroke-width="1.5" rx="4"/>
+    <text x="435" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#1a5490">Routing</text>
+    <text x="435" y="152" font-size="9" text-anchor="middle" fill="#666">Model Selection</text>
+    <text x="435" y="162" font-size="9" text-anchor="middle" fill="#666">Load Balance</text>
+    
+    <!-- Arrow from gateway -->
+    <path d="M 480 150 L 540 150" stroke="#ff8c42" stroke-width="3" marker-end="url(#arrowhead)"/>
+  </g>
+
+  <!-- ===== PRE-INFERENCE GUARDRAILS ===== -->
+  <g id="pre-inference">
+    <!-- Box -->
+    <rect x="540" y="80" width="280" height="140" fill="#fff3e0" stroke="#ff8c42" stroke-width="2" rx="8"/>
+    <text x="680" y="105" font-size="16" font-weight="bold" text-anchor="middle" fill="#ff8c42">🛡️ PRE-INFERENCE GUARDRAILS</text>
+    
+    <!-- Components -->
+    <rect x="555" y="120" width="75" height="50" fill="#fff" stroke="#ff8c42" stroke-width="1.5" rx="4"/>
+    <text x="592.5" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#ff8c42">Injection</text>
+    <text x="592.5" y="152" font-size="9" text-anchor="middle" fill="#666">Detection</text>
+    <text x="592.5" y="162" font-size="9" text-anchor="middle" fill="#666">Blocking</text>
+    
+    <rect x="640" y="120" width="75" height="50" fill="#fff" stroke="#ff8c42" stroke-width="1.5" rx="4"/>
+    <text x="677.5" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#ff8c42">Semantic</text>
+    <text x="677.5" y="152" font-size="9" text-anchor="middle" fill="#666">Validation</text>
+    <text x="677.5" y="162" font-size="9" text-anchor="middle" fill="#666">Filtering</text>
+    
+    <rect x="725" y="120" width="75" height="50" fill="#fff" stroke="#ff8c42" stroke-width="1.5" rx="4"/>
+    <text x="762.5" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#ff8c42">Anomaly</text>
+    <text x="762.5" y="152" font-size="9" text-anchor="middle" fill="#666">Detection</text>
+    <text x="762.5" y="162" font-size="9" text-anchor="middle" fill="#666">ML-based</text>
+    
+    <!-- Arrow -->
+    <path d="M 820 150 L 880 150" stroke="#ff8c42" stroke-width="3" marker-end="url(#arrowhead)"/>
+  </g>
+
+  <!-- ===== LLM INFERENCE ===== -->
+  <g id="inference">
+    <!-- Model container -->
+    <rect x="880" y="80" width="140" height="140" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/>
+    <text x="950" y="105" font-size="16" font-weight="bold" text-anchor="middle" fill="#9c27b0">🤖 LLM MODEL</text>
+    
+    <!-- Model details -->
+    <circle cx="950" cy="160" r="35" fill="#fff" stroke="#9c27b0" stroke-width="1.5"/>
+    <text x="950" y="155" font-size="11" text-anchor="middle" fill="#666">Inference</text>
+    <text x="950" y="170" font-size="11" text-anchor="middle" fill="#666">Engine</text>
+    
+    <!-- Arrow -->
+    <path d="M 1020 150 L 1080 150" stroke="#ff8c42" stroke-width="3" marker-end="url(#arrowhead)"/>
+  </g>
+
+  <!-- ===== POST-INFERENCE GUARDRAILS ===== -->
+  <g id="post-inference">
+    <!-- Box -->
+    <rect x="1080" y="80" width="280" height="140" fill="#e8f5e9" stroke="#00a86b" stroke-width="2" rx="8"/>
+    <text x="1220" y="105" font-size="16" font-weight="bold" text-anchor="middle" fill="#00a86b">✓ POST-INFERENCE GUARDRAILS</text>
+    
+    <!-- Components -->
+    <rect x="1095" y="120" width="75" height="50" fill="#fff" stroke="#00a86b" stroke-width="1.5" rx="4"/>
+    <text x="1132.5" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#00a86b">Type</text>
+    <text x="1132.5" y="152" font-size="9" text-anchor="middle" fill="#666">Validation</text>
+    <text x="1132.5" y="162" font-size="9" text-anchor="middle" fill="#666">Check</text>
+    
+    <rect x="1180" y="120" width="75" height="50" fill="#fff" stroke="#00a86b" stroke-width="1.5" rx="4"/>
+    <text x="1217.5" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#00a86b">PII</text>
+    <text x="1217.5" y="152" font-size="9" text-anchor="middle" fill="#666">Redaction</text>
+    <text x="1217.5" y="162" font-size="9" text-anchor="middle" fill="#666">Masking</text>
+    
+    <rect x="1265" y="120" width="75" height="50" fill="#fff" stroke="#00a86b" stroke-width="1.5" rx="4"/>
+    <text x="1302.5" y="135" font-size="10" font-weight="bold" text-anchor="middle" fill="#00a86b">Content</text>
+    <text x="1302.5" y="152" font-size="9" text-anchor="middle" fill="#666">Moderation</text>
+    <text x="1302.5" y="162" font-size="9" text-anchor="middle" fill="#666">Filtering</text>
+  </g>
+
+  <!-- ===== DECISION POINTS & RESPONSE ===== -->
+  
+  <!-- BLOCKED RESPONSES -->
+  <g id="blocked-path">
+    <!-- From Gateway rejection -->
+    <path d="M 340 220 L 340 280" stroke="#d32f2f" stroke-width="2.5" marker-end="url(#arrowhead-red)"/>
+    <rect x="290" y="290" width="100" height="60" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="4"/>
+    <text x="340" y="310" font-size="12" font-weight="bold" text-anchor="middle" fill="#d32f2f">❌ BLOCKED</text>
+    <text x="340" y="328" font-size="10" text-anchor="middle" fill="#666">Rate Limit</text>
+    <text x="340" y="340" font-size="10" text-anchor="middle" fill="#666">Exceeded</text>
+    
+    <!-- From Pre-inference rejection -->
+    <path d="M 680 220 L 680 280" stroke="#d32f2f" stroke-width="2.5" marker-end="url(#arrowhead-red)"/>
+    <rect x="630" y="290" width="100" height="60" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="4"/>
+    <text x="680" y="310" font-size="12" font-weight="bold" text-anchor="middle" fill="#d32f2f">❌ BLOCKED</text>
+    <text x="680" y="328" font-size="10" text-anchor="middle" fill="#666">Injection</text>
+    <text x="680" y="340" font-size="10" text-anchor="middle" fill="#666">Detected</text>
+  </g>
+
+  <!-- APPROVED & RETURNED RESPONSES -->
+  <g id="approved-path">
+    <!-- From Post-inference approval -->
+    <path d="M 1220 220 L 1220 280" stroke="#00a86b" stroke-width="2.5" marker-end="url(#arrowhead-green)"/>
+    <rect x="1170" y="290" width="100" height="60" fill="#e8f5e9" stroke="#00a86b" stroke-width="2" rx="4"/>
+    <text x="1220" y="310" font-size="12" font-weight="bold" text-anchor="middle" fill="#00a86b">✓ APPROVED</text>
+    <text x="1220" y="328" font-size="10" text-anchor="middle" fill="#666">Response</text>
+    <text x="1220" y="340" font-size="10" text-anchor="middle" fill="#666">Delivered</text>
+  </g>
+
+  <!-- ===== MONITORING & LOGGING LAYER ===== -->
+  <g id="monitoring">
+    <!-- Monitoring bar at bottom -->
+    <rect x="100" y="400" width="1200" height="120" fill="#eceff1" stroke="#455a64" stroke-width="2" rx="8"/>
+    <text x="700" y="425" font-size="14" font-weight="bold" text-anchor="middle" fill="#455a64">📊 MONITORING & INCIDENT RESPONSE</text>
+    
+    <!-- Monitoring components -->
+    <rect x="115" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="180" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Real-time Logging</text>
+    <text x="180" y="478" font-size="9" text-anchor="middle" fill="#666">All requests/responses</text>
+    <text x="180" y="490" font-size="9" text-anchor="middle" fill="#666">Centralized logs</text>
+    
+    <rect x="265" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="330" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Anomaly Detection</text>
+    <text x="330" y="478" font-size="9" text-anchor="middle" fill="#666">Pattern analysis</text>
+    <text x="330" y="490" font-size="9" text-anchor="middle" fill="#666">ML-based detection</text>
+    
+    <rect x="415" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="480" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Alert Generation</text>
+    <text x="480" y="478" font-size="9" text-anchor="middle" fill="#666">Real-time alerts</text>
+    <text x="480" y="490" font-size="9" text-anchor="middle" fill="#666">Severity levels</text>
+    
+    <rect x="565" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="630" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Incident Response</text>
+    <text x="630" y="478" font-size="9" text-anchor="middle" fill="#666">Automated response</text>
+    <text x="630" y="490" font-size="9" text-anchor="middle" fill="#666">Manual escalation</text>
+    
+    <rect x="715" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="780" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Dashboard & KPIs</text>
+    <text x="780" y="478" font-size="9" text-anchor="middle" fill="#666">Security metrics</text>
+    <text x="780" y="490" font-size="9" text-anchor="middle" fill="#666">Performance tracking</text>
+    
+    <rect x="865" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="930" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Threat Intelligence</text>
+    <text x="930" y="478" font-size="9" text-anchor="middle" fill="#666">Attack patterns</text>
+    <text x="930" y="490" font-size="9" text-anchor="middle" fill="#666">Vulnerability feeds</text>
+    
+    <rect x="1015" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="1080" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Compliance Audit</text>
+    <text x="1080" y="478" font-size="9" text-anchor="middle" fill="#666">Policy validation</text>
+    <text x="1080" y="490" font-size="9" text-anchor="middle" fill="#666">Audit trails</text>
+    
+    <rect x="1165" y="445" width="130" height="60" fill="#fff" stroke="#455a64" stroke-width="1.5" rx="4"/>
+    <text x="1230" y="463" font-size="11" font-weight="bold" text-anchor="middle" fill="#455a64">Continuous Improvement</text>
+    <text x="1230" y="478" font-size="9" text-anchor="middle" fill="#666">Model updates</text>
+    <text x="1230" y="490" font-size="9" text-anchor="middle" fill="#666">Rule refinement</text>
+  </g>
+
+  <!-- ===== THREAT DETECTION & RESPONSE FLOW ===== -->
+  <g id="threat-response">
+    <rect x="100" y="560" width="1200" height="180" fill="#fff" stroke="#ff6b6b" stroke-width="2" rx="8"/>
+    <text x="700" y="585" font-size="14" font-weight="bold" text-anchor="middle" fill="#ff6b6b">🚨 THREAT DETECTION & RESPONSE WORKFLOW</text>
+    
+    <!-- Detection flow -->
+    <g id="threat-flow-1">
+      <circle cx="200" cy="650" r="25" fill="#ff6b6b"/>
+      <text x="200" y="655" font-size="20" text-anchor="middle" fill="white">1</text>
+      <text x="200" y="690" font-size="11" text-anchor="middle" fill="#333" font-weight="bold">Threat Detected</text>
+      
+      <path d="M 225 650 L 275 650" stroke="#ff6b6b" stroke-width="2" marker-end="url(#arrowhead-red)"/>
+    </g>
+    
+    <g id="threat-flow-2">
+      <circle cx="350" cy="650" r="25" fill="#ff8c42"/>
+      <text x="350" y="655" font-size="20" text-anchor="middle" fill="white">2</text>
+      <text x="350" y="690" font-size="11" text-anchor="middle" fill="#333" font-weight="bold">Alert Generated</text>
+      <text x="350" y="703" font-size="9" text-anchor="middle" fill="#666">Severity Level</text>
+      
+      <path d="M 375 650 L 425 650" stroke="#ff8c42" stroke-width="2" marker-end="url(#arrowhead-red)"/>
+    </g>
+    
+    <g id="threat-flow-3">
+      <circle cx="500" cy="650" r="25" fill="#ffc107"/>
+      <text x="500" y="655" font-size="20" text-anchor="middle" fill="white">3</text>
+      <text x="500" y="690" font-size="11" text-anchor="middle" fill="#333" font-weight="bold">Triage & Analysis</text>
+      <text x="500" y="703" font-size="9" text-anchor="middle" fill="#666">Investigate cause</text>
+      
+      <path d="M 525 650 L 575 650" stroke="#ffc107" stroke-width="2" marker-end="url(#arrowhead-red)"/>
+    </g>
+    
+    <g id="threat-flow-4">
+      <circle cx="650" cy="650" r="25" fill="#e91e63"/>
+      <text x="650" y="655" font-size="20" text-anchor="middle" fill="white">4</text>
+      <text x="650" y="690" font-size="11" text-anchor="middle" fill="#333" font-weight="bold">Containment</text>
+      <text x="650" y="703" font-size="9" text-anchor="middle" fill="#666">Isolate & block</text>
+      
+      <path d="M 675 650 L 725 650" stroke="#e91e63" stroke-width="2" marker-end="url(#arrowhead-red)"/>
+    </g>
+    
+    <g id="threat-flow-5">
+      <circle cx="800" cy="650" r="25" fill="#9c27b0"/>
+      <text x="800" y="655" font-size="20" text-anchor="middle" fill="white">5</text>
+      <text x="800" y="690" font-size="11" text-anchor="middle" fill="#333" font-weight="bold">Remediation</text>
+      <text x="800" y="703" font-size="9" text-anchor="middle" fill="#666">Fix root cause</text>
+      
+      <path d="M 825 650 L 875 650" stroke="#9c27b0" stroke-width="2" marker-end="url(#arrowhead-red)"/>
+    </g>
+    
+    <g id="threat-flow-6">
+      <circle cx="950" cy="650" r="25" fill="#2196F3"/>
+      <text x="950" y="655" font-size="20" text-anchor="middle" fill="white">6</text>
+      <text x="950" y="690" font-size="11" text-anchor="middle" fill="#333" font-weight="bold">Recovery</text>
+      <text x="950" y="703" font-size="9" text-anchor="middle" fill="#666">Restore services</text>
+      
+      <path d="M 975 650 L 1025 650" stroke="#2196F3" stroke-width="2" marker-end="url(#arrowhead-red)"/>
+    </g>
+    
+    <g id="threat-flow-7">
+      <circle cx="1100" cy="650" r="25" fill="#00a86b"/>
+      <text x="1100" y="655" font-size="20" text-anchor="middle" fill="white">7</text>
+      <text x="1100" y="690" font-size="11" text-anchor="middle" fill="#333" font-weight="bold">Post-Incident</text>
+      <text x="1100" y="703" font-size="9" text-anchor="middle" fill="#666">Review & improve</text>
+    </g>
+  </g>
+
+  <!-- ===== KEY METRICS & INDICATORS ===== -->
+  <g id="metrics">
+    <rect x="100" y="780" width="1200" height="180" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/>
+    <text x="700" y="805" font-size="14" font-weight="bold" text-anchor="middle" fill="#9c27b0">📈 KEY SECURITY METRICS & INDICATORS</text>
+    
+    <!-- Metric boxes -->
+    <rect x="115" y="825" width="160" height="120" fill="#fff" stroke="#9c27b0" stroke-width="1.5" rx="4"/>
+    <text x="195" y="845" font-size="11" font-weight="bold" text-anchor="middle" fill="#9c27b0">Detection Metrics</text>
+    <text x="195" y="862" font-size="9" text-anchor="middle" fill="#666">MTTD (Mean Time to</text>
+    <text x="195" y="875" font-size="9" text-anchor="middle" fill="#666">Detect): &lt; 5 min</text>
+    <text x="195" y="888" font-size="9" text-anchor="middle" fill="#666">False Positives: &lt; 5%</text>
+    <text x="195" y="901" font-size="9" text-anchor="middle" fill="#666">False Negatives: &lt; 1%</text>
+    <text x="195" y="915" font-size="9" text-anchor="middle" fill="#666">Alert Accuracy: &gt; 95%</text>
+    
+    <rect x="295" y="825" width="160" height="120" fill="#fff" stroke="#9c27b0" stroke-width="1.5" rx="4"/>
+    <text x="375" y="845" font-size="11" font-weight="bold" text-anchor="middle" fill="#9c27b0">Response Metrics</text>
+    <text x="375" y="862" font-size="9" text-anchor="middle" fill="#666">MTTR (Mean Time to</text>
+    <text x="375" y="875" font-size="9" text-anchor="middle" fill="#666">Respond): &lt; 15 min</text>
+    <text x="375" y="888" font-size="9" text-anchor="middle" fill="#666">Resolution Time: &lt; 1h</text>
+    <text x="375" y="901" font-size="9" text-anchor="middle" fill="#666">Success Rate: &gt; 98%</text>
+    <text x="375" y="915" font-size="9" text-anchor="middle" fill="#666">Escalation Rate: &lt; 10%</text>
+    
+    <rect x="475" y="825" width="160" height="120" fill="#fff" stroke="#9c27b0" stroke-width="1.5" rx="4"/>
+    <text x="555" y="845" font-size="11" font-weight="bold" text-anchor="middle" fill="#9c27b0">Model Performance</text>
+    <text x="555" y="862" font-size="9" text-anchor="middle" fill="#666">Accuracy Drift: &lt; 2%</text>
+    <text x="555" y="875" font-size="9" text-anchor="middle" fill="#666">Latency (p99): &lt; 2s</text>
+    <text x="555" y="888" font-size="9" text-anchor="middle" fill="#666">Availability: &gt; 99.9%</text>
+    <text x="555" y="901" font-size="9" text-anchor="middle" fill="#666">Error Rate: &lt; 0.1%</text>
+    <text x="555" y="915" font-size="9" text-anchor="middle" fill="#666">Throughput: &gt; 100 req/s</text>
+    
+    <rect x="655" y="825" width="160" height="120" fill="#fff" stroke="#9c27b0" stroke-width="1.5" rx="4"/>
+    <text x="735" y="845" font-size="11" font-weight="bold" text-anchor="middle" fill="#9c27b0">Security Metrics</text>
+    <text x="735" y="862" font-size="9" text-anchor="middle" fill="#666">Auth Failures: &lt; 1%</text>
+    <text x="735" y="875" font-size="9" text-anchor="middle" fill="#666">Injection Attempts: 0</text>
+    <text x="735" y="888" font-size="9" text-anchor="middle" fill="#666">DoS Incidents: 0</text>
+    <text x="735" y="901" font-size="9" text-anchor="middle" fill="#666">Policy Violations: 0</text>
+    <text x="735" y="915" font-size="9" text-anchor="middle" fill="#666">Security Patches: 100%</text>
+    
+    <rect x="835" y="825" width="160" height="120" fill="#fff" stroke="#9c27b0" stroke-width="1.5" rx="4"/>
+    <text x="915" y="845" font-size="11" font-weight="bold" text-anchor="middle" fill="#9c27b0">Compliance Metrics</text>
+    <text x="915" y="862" font-size="9" text-anchor="middle" fill="#666">Audit Trail: 100%</text>
+    <text x="915" y="875" font-size="9" text-anchor="middle" fill="#666">Log Retention: &gt; 90d</text>
+    <text x="915" y="888" font-size="9" text-anchor="middle" fill="#666">Encryption: 100%</text>
+    <text x="915" y="901" font-size="9" text-anchor="middle" fill="#666">Policy Adherence: 100%</text>
+    <text x="915" y="915" font-size="9" text-anchor="middle" fill="#666">Audit Pass Rate: 100%</text>
+    
+    <rect x="1015" y="825" width="160" height="120" fill="#fff" stroke="#9c27b0" stroke-width="1.5" rx="4"/>
+    <text x="1095" y="845" font-size="11" font-weight="bold" text-anchor="middle" fill="#9c27b0">Cost Metrics</text>
+    <text x="1095" y="862" font-size="9" text-anchor="middle" fill="#666">Cost per Request: $0.001</text>
+    <text x="1095" y="875" font-size="9" text-anchor="middle" fill="#666">Security Overhead: &lt; 5%</text>
+    <text x="1095" y="888" font-size="9" text-anchor="middle" fill="#666">Infrastructure Cost: $X/mo</text>
+    <text x="1095" y="901" font-size="9" text-anchor="middle" fill="#666">ROI: Positive</text>
+    <text x="1095" y="915" font-size="9" text-anchor="middle" fill="#666">Break-even: &lt; 6mo</text>
+  </g>
+
+  <!-- Legend -->
+  <g id="legend">
+    <text x="100" y="990" font-size="12" font-weight="bold" fill="#333">Legend:</text>
+    
+    <line x1="240" y1="985" x2="280" y2="985" stroke="#ff8c42" stroke-width="3" marker-end="url(#arrowhead)"/>
+    <text x="290" y="990" font-size="11" fill="#666">Accepted Request</text>
+    
+    <line x1="550" y1="985" x2="590" y2="985" stroke="#d32f2f" stroke-width="3" marker-end="url(#arrowhead-red)"/>
+    <text x="600" y="990" font-size="11" fill="#666">Blocked/Rejected</text>
+    
+    <line x1="850" y1="985" x2="890" y2="985" stroke="#00a86b" stroke-width="3" marker-end="url(#arrowhead-green)"/>
+    <text x="900" y="990" font-size="11" fill="#666">Approved Response</text>
+    
+    <rect x="1080" y="978" width="15" height="15" fill="#e3f2fd" stroke="#1a5490" stroke-width="1"/>
+    <text x="1105" y="990" font-size="11" fill="#666">Gateway</text>
+    
+    <rect x="1200" y="978" width="15" height="15" fill="#fff3e0" stroke="#ff8c42" stroke-width="1"/>
+    <text x="1225" y="990" font-size="11" fill="#666">Pre-Inference</text>
+    
+    <rect x="1300" y="978" width="15" height="15" fill="#e8f5e9" stroke="#00a86b" stroke-width="1"/>
+    <text x="1325" y="990" font-size="11" fill="#666">Post-Inference</text>
+  </g>
+</svg>
