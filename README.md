@@ -39,7 +39,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/ARUNAGIRINATHAN-K/awesome-llmsecops)](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/awesome-llmsecops)](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/commits/main)
 
-[Submit a Resource](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=resource_submission.yml) · [Report Broken Link](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=broken_link.yml) · [Request Category](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=category_request.yml) · [Join Community](#-community)
+[Submit a Resource](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=resource_submission.yml) · [Report Broken Link](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=broken_link.yml) · [Request Category](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues/new?template=category_request.yml) · [Join Community](#community)
 
  <img src="assets/img/mindmap.svg" alt="mindmap" width="800">
 
@@ -81,31 +81,28 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 
 ## Table of Contents
 
-- [News & Announcements](#-news--announcements)
-- [What is LLMSecOps?](#️-what-is-llmsecops)
-- [Quick Start Guide](#-quick-start-guide)
-- [Categories](#-categories)
-  - [Prompt Security](#️-prompt-security)
-  - [Model Security](#-model-security)
-  - [Agentic AI Security](#-agentic-ai-security) `NEW`
-  - [RAG Security](#-rag-security) `NEW`
-  - [🚧 AI Gateways & Runtime Guardrails](#-ai-gateways--runtime-guardrails) `NEW`
-  - [Data Privacy & PII Protection](#-data-privacy--pii-protection)
-  - [Supply Chain Security](#-supply-chain-security)
-  - [Deployment Security](#️-deployment-security)
-  - [Monitoring & Observability](#-monitoring--observability)
-  - [Incident Response for AI Systems](#-incident-response-for-ai-systems) `NEW`
-  - [Compliance & Governance](#-compliance--governance)
-  - [Red Teaming & Adversarial Testing](#-red-teaming--adversarial-testing)
-  - [Evaluation & Benchmarking](#-evaluation--benchmarking)
-  - [Learning Resources](#-learning-resources)
-- [Standards & Frameworks Overview](#️-standards--frameworks-overview)
-- [Related Awesome Lists](#-related-awesome-lists)
-- [Community](#-community)
-- [Contributing](#-contributing)
-- [Metrics & Growth](#-metrics--growth)
-- [Sponsors & Supporters](#-sponsors--supporters)
-- [License](#-license)
+- [What is LLMSecOps?](#what-is-llmsecops)
+- [Quick Start Guide](#quick-start-guide)
+- [Categories](#categories)
+  - [Prompt Security](#prompt-security)
+  - [Model Security](#model-security)
+  - [Agentic AI Security](#agentic-ai-security) `NEW`
+  - [RAG Security](#rag-security) `NEW`
+  - [AI Gateways & Runtime Guardrails](#ai-gateways--runtime-guardrails) `NEW`
+  - [Data Privacy & PII Protection](#data-privacy--pii-protection)
+  - [Supply Chain Security](#supply-chain-security)
+  - [Deployment Security](#deployment-security)
+  - [Monitoring & Observability](#monitoring--observability)
+  - [Incident Response for AI Systems](#incident-response-for-ai-systems) `NEW`
+  - [Compliance & Governance](#compliance--governance)
+  - [Red Teaming & Adversarial Testing](#red-teaming--adversarial-testing)
+  - [Evaluation & Benchmarking](#evaluation--benchmarking)
+  - [Learning Resources](#learning-resources)
+- [Standards & Frameworks Overview](#standards--frameworks-overview)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Community](#community)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -668,7 +665,7 @@ Special thanks to:
 
 [![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-llmsecops?style=for-the-badge&logo=github&color=yellow)](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/stargazers)
 
-**📢 [Discussions](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/discussions) · [Issues](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues) · [Contributing](./CONTRIBUTING.md) · [Community](#-community)**
+**📢 [Discussions](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/discussions) · [Issues](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops/issues) · [Contributing](./CONTRIBUTING.md) · [Community](#community)**
 
 **Made with ❤️ by the LLMSecOps Community**
 
