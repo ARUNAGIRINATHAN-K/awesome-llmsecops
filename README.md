@@ -1,8 +1,19 @@
 <div align="center">
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="assets/light.svg">
-   <img alt="Awesome LLMSecOps - Curated list of tools, frameworks, and research for securing Large Language Model and Generative AI applications" src="assets/dark.svg" width="600">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/light.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/dark.svg"
+  >
+  <img
+    src="assets/light.svg"
+    alt="Awesome LLMSecOps - Curated list of tools, frameworks, and research for securing Large Language Model and Generative AI applications"
+    width="600"
+  >
 </picture>
 
 <br>
@@ -10,6 +21,15 @@
 # Awesome LLMSecOps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *A curated list of tools, frameworks, research, and best practices for securing Large Language Model and Generative AI applications throughout their entire lifecycle.*
+
+<br>
+
+<svg width="742" height="29" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#080boe"/>
+  <text x="371" y="19.75" font-family="'Comic Sans MS', cursive" font-size="21" font-weight="normal" fill="#FFFFFF" text-anchor="middle">Prompt → Model → Tools → Data → Deployment → Monitoring → Security</text>
+</svg>
+
+<br>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
@@ -29,12 +49,23 @@
 
 LLMSecOps is a new discipline integrating cybersecurity throughout the entire lifecycle of Large Language Model (LLM) and Generative AI applications, from design to incident response. As LLMs become fundamental to enterprise and critical infrastructure, the attack surface expands. LLMSecOps addresses this through:
 
+## LLMSecOps Lifecycle
+
+<svg width="499" height="22" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+  <text x="249.5" y="15" font-family="'Comic Sans MS', cursive" font-size="16" font-weight="normal" fill="#6366f1" text-anchor="middle">Plan → Build → Train → Deploy → Operate → Monitor → Improve</text>
+</svg>
+
+<br>
+
 *   **Secure Design:** Threat modeling, architecture review, and security requirements from inception.
 *   **Secure Development:** Secure coding, prompt hardening, and security-aware training.
 *   **Secure Deployment:** Infrastructure security, API hardening, guardrails, and access controls.
 *   **Secure Operations:** Runtime monitoring, anomaly detection, and behavioral analysis.
 *   **Agentic Security:** Securing autonomous AI agents, tool use, and multi-agent orchestration.
-*   **Compliance & Governance:** Regulatory alignment, audit trails, and organizational policies.
+*   **Compliance & Governance:** Regulatory alignment, audit trails, and organizational policies
+
+
 
 ---
 
@@ -65,6 +96,13 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 - [Metrics & Growth](#-metrics--growth)
 - [Sponsors & Supporters](#-sponsors--supporters)
 - [License](#-license)
+
+---
+
+<img
+    src="assets/img/LLMSECOPS.svg"
+    alt="Awesome LLMSecOps - Curated list of tools, frameworks, and research for securing Large Language Model and Generative AI applications"
+    width="800">
 
 ---
 
@@ -160,6 +198,8 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 
 ### Agentic AI Security
 
+![agentic](assets/img/agentic.png)
+
 *Tools, frameworks, and research for securing autonomous AI agents, multi-agent systems, tool use, MCP (Model Context Protocol) integrations, and agentic workflows.* `NEW`
 
 **Agentic Security Frameworks:**
@@ -192,6 +232,10 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 ---
 
 ### RAG Security
+
+<br>
+
+![RAG](assets/img/rag.svg)
 
 *Tools, patterns, and research for securing Retrieval-Augmented Generation pipelines, vector databases, embedding integrity, and knowledge base poisoning defenses.* `NEW`
 
@@ -586,6 +630,8 @@ Special thanks to:
 ---
 
 <div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ARUNAGIRINATHAN-K/awesome-llmsecops&type=Date)](https://star-history.com/#ARUNAGIRINATHAN-K/awesome-llmsecops&Date)
 
 **⭐ If you find this useful, please star this repository — it helps others discover it!**
 
