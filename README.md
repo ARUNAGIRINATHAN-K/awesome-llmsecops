@@ -1,5 +1,3 @@
-<!--lint disable awesome-github awesome-license awesome-list-item awesome-toc double-link list-item-indent no-emphasis-as-heading no-heading-punctuation table-cell-padding table-pipe-alignment unordered-list-marker-style-->
-
 <div align="center">
 
 <picture>
