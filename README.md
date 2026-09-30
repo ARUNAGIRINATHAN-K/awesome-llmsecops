@@ -197,7 +197,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 ### Standards & Frameworks
 
 - [Google Secure AI Framework (SAIF)](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/) - Conceptual framework for securing AI systems across infrastructure, supply chain, and model deployments.
-- [NIST AI 100-2: Adversarial Machine Learning](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) - Comprehensive taxonomy of adversarial machine learning attacks, defenses, and security terminology.
+- [NIST AI 100-2: Adversarial Machine Learning](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology) - Comprehensive taxonomy of adversarial machine learning attacks, defenses, and security terminology.
 - [OWASP MCP Top 10](https://genai.owasp.org/) - Community standard defining security risks in Model Context Protocol integrations.
 - [OWASP Top 10 for Agentic Applications](https://genai.owasp.org/) - Industry reference for critical security risks in autonomous AI agent systems.
 - [OWASP Top 10 for LLM Applications (2025)](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Standard reference for top security risks in Large Language Model applications.
@@ -448,7 +448,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 ### Incident Response for AI Systems
 
 - [FIRST.org AI Security Working Group](https://www.first.org/) - Global incident response forum developing operational guidance for AI threat handling.
-- [NIST Incident Response Guide (SP 800-61r3)](https://csrc.nist.gov/pubs/sp/800/61/r3/final) - Federal computer security incident handling guide adaptable to artificial intelligence events.
+- [NIST Incident Response Guide (SP 800-61r3)](https://www.nist.gov/publications/computer-security-incident-handling-guide) - Federal computer security incident handling guide adaptable to artificial intelligence events.
 - [Shuffle Automation](https://github.com/Shuffle/Shuffle) - Open-source SOAR platform automating incident response playbooks via visual workflows.
 - [TheHive](https://github.com/TheHive-Project/TheHive) - Security incident response platform managing cases, observables, and forensic tasks.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Digital forensics and endpoint monitoring tool collecting evidence during system breaches.
