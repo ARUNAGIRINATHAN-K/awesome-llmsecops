@@ -463,8 +463,6 @@ A quick reference of the major standards and frameworks relevant to LLMSecOps:
 | [OWASP Top 10 for Agentic Apps](https://genai.owasp.org/) | Agentic AI security risks | Community standard | ✅ Active |
 | [OWASP MCP Top 10](https://genai.owasp.org/) | MCP integration risks | Community standard | ✅ Active |
 | [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) | AI risk management | Voluntary framework | ✅ Active |
-| [NIST AI 600-1](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence-profile) | GenAI-specific risks | Voluntary profile | ✅ Active |
-| [NIST AI 100-2](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology) | Adversarial ML taxonomy | Guidance | ✅ Active |
 | [EU AI Act](https://artificialintelligenceact.eu/) | AI regulation (risk-based) | Binding regulation | ✅ Enforcing |
 | [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html) | AI management systems | Certifiable standard | ✅ Active |
 | [MITRE ATLAS](https://atlas.mitre.org/) | AI threat landscape | Knowledge base | ✅ Active |
