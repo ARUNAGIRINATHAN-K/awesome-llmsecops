@@ -186,7 +186,6 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 - [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html) - Certifiable international management system standard specifically for AI governance and risk management.
 - [MLflow](https://github.com/mlflow/mlflow) - Platform for ML lifecycle management featuring model registries, artifact versioning, and compliance audit trails.
 - [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993) - Framework for transparent model reporting covering intended use, evaluation metrics, and safety limitations.
-- [NIST AI 600-1: Generative AI Profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence-profile) - NIST guidance addressing unique risks in generative AI including hallucinations, IP leakage, and synthetic content.
 - [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework) - Voluntary framework providing structured governance (Govern, Map, Measure, Manage) for AI risk management.
 - [NIST Privacy Framework](https://www.nist.gov/privacy-framework) - Voluntary framework for managing privacy risks in AI and automated decision systems.
 - [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Microsoft platform for model debugging, fairness assessment, and interpretability analysis.
