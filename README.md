@@ -1,4 +1,3 @@
-<!--lint disable awesome-github awesome-license awesome-list-item awesome-toc double-link list-item-indent no-emphasis-as-heading no-heading-punctuation table-cell-padding table-pipe-alignment unordered-list-marker-style-->
 <div align="center">
 
 <picture>
@@ -187,7 +186,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 - [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html) - Certifiable international management system standard specifically for AI governance and risk management.
 - [MLflow](https://github.com/mlflow/mlflow) - Platform for ML lifecycle management featuring model registries, artifact versioning, and compliance audit trails.
 - [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993) - Framework for transparent model reporting covering intended use, evaluation metrics, and safety limitations.
-- [NIST AI 600-1: Generative AI Profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence-profile) - NIST guidance addressing unique risks in generative AI including hallucinations, IP leakage, and synthetic content.
+- [NIST AI 600-1: Generative AI Profile](https://www.nist.gov/publications/ai-600-1) - NIST guidance addressing unique risks in generative AI including hallucinations, IP leakage, and synthetic content.
 - [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework) - Voluntary framework providing structured governance (Govern, Map, Measure, Manage) for AI risk management.
 - [NIST Privacy Framework](https://www.nist.gov/privacy-framework) - Voluntary framework for managing privacy risks in AI and automated decision systems.
 - [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Microsoft platform for model debugging, fairness assessment, and interpretability analysis.
@@ -196,7 +195,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 ### Standards & Frameworks
 
 - [Google Secure AI Framework (SAIF)](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/) - Conceptual framework for securing AI systems across infrastructure, supply chain, and model deployments.
-- [NIST AI 100-2: Adversarial Machine Learning](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) - Comprehensive taxonomy of adversarial machine learning attacks, defenses, and security terminology.
+- [NIST AI 100-2: Adversarial Machine Learning](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology) - Comprehensive taxonomy of adversarial machine learning attacks, defenses, and security terminology.
 - [OWASP MCP Top 10](https://genai.owasp.org/) - Community standard defining security risks in Model Context Protocol integrations.
 - [OWASP Top 10 for Agentic Applications](https://genai.owasp.org/) - Industry reference for critical security risks in autonomous AI agent systems.
 - [OWASP Top 10 for LLM Applications (2025)](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Standard reference for top security risks in Large Language Model applications.
@@ -447,7 +446,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 ### Incident Response for AI Systems
 
 - [FIRST.org AI Security Working Group](https://www.first.org/) - Global incident response forum developing operational guidance for AI threat handling.
-- [NIST Incident Response Guide (SP 800-61r3)](https://csrc.nist.gov/pubs/sp/800/61/r3/final) - Federal computer security incident handling guide adaptable to artificial intelligence events.
+- [NIST Incident Response Guide (SP 800-61r3)](https://www.nist.gov/publications/computer-security-incident-handling-guide) - Federal computer security incident handling guide adaptable to artificial intelligence events.
 - [Shuffle Automation](https://github.com/Shuffle/Shuffle) - Open-source SOAR platform automating incident response playbooks via visual workflows.
 - [TheHive](https://github.com/TheHive-Project/TheHive) - Security incident response platform managing cases, observables, and forensic tasks.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Digital forensics and endpoint monitoring tool collecting evidence during system breaches.
@@ -464,8 +463,6 @@ A quick reference of the major standards and frameworks relevant to LLMSecOps:
 | [OWASP Top 10 for Agentic Apps](https://genai.owasp.org/) | Agentic AI security risks | Community standard | ✅ Active |
 | [OWASP MCP Top 10](https://genai.owasp.org/) | MCP integration risks | Community standard | ✅ Active |
 | [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) | AI risk management | Voluntary framework | ✅ Active |
-| [NIST AI 600-1](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence-profile) | GenAI-specific risks | Voluntary profile | ✅ Active |
-| [NIST AI 100-2](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) | Adversarial ML taxonomy | Guidance | ✅ Active |
 | [EU AI Act](https://artificialintelligenceact.eu/) | AI regulation (risk-based) | Binding regulation | ✅ Enforcing |
 | [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html) | AI management systems | Certifiable standard | ✅ Active |
 | [MITRE ATLAS](https://atlas.mitre.org/) | AI threat landscape | Knowledge base | ✅ Active |
