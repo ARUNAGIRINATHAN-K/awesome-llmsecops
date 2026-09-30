@@ -1,0 +1,78 @@
+name: ➕ Suggest Resource Addition
+description: Suggest a new open-source tool, framework, research paper, or security control for Awesome LLMSecOps
+title: "Suggest Addition: [Resource Name]"
+labels: ["resource-suggestion", "enhancement"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Thank you for contributing to Awesome LLMSecOps! 🛡️
+        Please provide the resource details below. All suggestions are checked against our quality standards and 4-phase lifecycle structure.
+
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: The name of the tool, framework, research paper, or standard
+      placeholder: e.g., Giskard
+    validations:
+      required: true
+
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      description: Direct link to the repository, project site, or paper
+      placeholder: e.g., https://github.com/Giskard-AI/giskard
+    validations:
+      required: true
+
+  - type: dropdown
+    id: lifecycle-phase
+    attributes:
+      label: Target Lifecycle Phase & Section
+      description: Select the appropriate subcategory for this resource
+      options:
+        - "Phase 1: Threat Modeling & Risk Assessment"
+        - "Phase 1: Compliance & Governance"
+        - "Phase 1: Standards & Frameworks"
+        - "Phase 1: Learning Resources & Research Communities"
+        - "Phase 2: Model Security & Training Integrity"
+        - "Phase 2: Supply Chain Security"
+        - "Phase 2: Data Privacy & PII Protection"
+        - "Phase 3: Prompt Security"
+        - "Phase 3: RAG Security"
+        - "Phase 3: Agentic AI Security"
+        - "Phase 3: AI Gateways & Runtime Guardrails"
+        - "Phase 3: Deployment Security"
+        - "Phase 3: Confidential Computing & Hardware Isolation"
+        - "Phase 4: Monitoring & Observability"
+        - "Phase 4: Red Teaming & Adversarial Testing"
+        - "Phase 4: Evaluation & Benchmarking"
+        - "Phase 4: Incident Response for AI Systems"
+    validations:
+      required: true
+
+  - type: textarea
+    id: formatted-entry
+    attributes:
+      label: Formatted Entry (Markdown)
+      description: "Must follow strict format: `- [**Tool Name**](URL) - One-sentence description of its security value.`"
+      placeholder: "- [**Giskard**](https://github.com/Giskard-AI/giskard) - Open-source AI testing framework detecting hallucinations, data leakage, and security vulnerabilities with CI/CD automation."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Quality & Formatting Verification
+      options:
+        - label: The resource is actively maintained or is a foundational paper/standard.
+          required: true
+        - label: The entry description explicitly states why it matters for LLMSecOps security.
+          required: true
+        - label: The link is working and freely accessible (no paywalls).
+          required: true
+        - label: I have verified this resource is not already listed in the repository.
+          required: true

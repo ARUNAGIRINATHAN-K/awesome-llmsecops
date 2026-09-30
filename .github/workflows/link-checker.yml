@@ -1,0 +1,28 @@
+name: Link Checker
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0' # Run weekly on Sundays at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-checker:
+    name: Check Broken Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Link Checker with Lychee
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --verbose --no-progress --exclude-loopback --max-concurrency 10 './README.md'
+          fail: true
