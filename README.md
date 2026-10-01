@@ -417,6 +417,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - IBM library testing model resilience against evasion, extraction, and poisoning attacks.
 - [AutoDAN](https://arxiv.org/abs/2310.04451) - Stealthy jailbreak generator utilizing genetic algorithms to automatically bypass safety filters.
 - [Counterfit](https://github.com/Azure/counterfit) - Microsoft CLI tool automating adversarial security testing against machine learning models.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI penetration testing platform where an LLM orchestrates specialist agents and offensive tools over MCP on a local model, proving each finding with a real exploit.
 - [FigStep](https://arxiv.org/abs/2311.05608) - Multimodal red teaming technique converting toxic text into visual typographic prompts to bypass safety alignment.
 - [GPTFuzzer](https://github.com/sherdencooper/GPTFuzz) - Black-box LLM fuzzing framework mutating seed templates to discover hidden jailbreak vectors.
 - [Garak](https://github.com/NVIDIA/garak) - Open-source LLM vulnerability scanner probing models for prompt injection, hallucination, and data exfiltration.
