@@ -338,6 +338,7 @@ LLMSecOps is a new discipline integrating cybersecurity throughout the entire li
 
 <br>
 
+- [AgentLeak](https://github.com/yagobski/agentleak) - Open-source privacy testing for AI agents: detects data leaks across tool calls, memory, inter-agent messages and logs; IEEE Access 2026 benchmark (1,000 scenarios).
 - [AgentDojo](https://github.com/ethz-spylab/agentdojo) - Dynamic evaluation environment benchmarking attacks and defenses for tool-using AI agents.
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Observability and monitoring platform tracking AI agent execution sessions, cost metrics, tool calls, and security compliance.
 - [CrewAI Security](https://github.com/crewAIInc/crewAI) - Multi-agent orchestration platform supporting role-based tool restrictions and execution boundaries.
